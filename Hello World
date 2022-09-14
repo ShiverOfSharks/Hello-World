@@ -3,7 +3,7 @@
 
 int main()
 {
-    cout << "Hello World" << endl; 
+    std::cout << "Hello World \n"; //implament std library for cout, print "Hello World" with enter after
     
     return 0; 
 }
